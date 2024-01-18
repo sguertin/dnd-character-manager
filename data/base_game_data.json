@@ -1,0 +1,285 @@
+{
+    "classes": {
+        "Artificer": {
+            "base": {
+                "armorProficiencies": [
+                    {
+                        "type": "Light Armor"
+                    },
+                    {
+                        "type": "Medium Armor"
+                    }
+                ],
+                "weaponProficiencies": [
+                    {
+                        "type": "Simple Weapons"
+                    }
+                ],
+                "otherProficiencies": [
+                    "Tinker's Tools"
+                ],
+                "savingThrows": [
+                    "Intelligence"
+                ]
+            },
+            "multi": {
+                "armorProficiencies": [],
+                "weaponProficiencies": [],
+                "otherProficiencies": [],
+                "savingThrows": []
+            }
+        },
+        "Barbarian": {
+            "base": {
+                "armorProficiencies": [
+                    {
+                        "type": "Light Armor"
+                    },
+                    {
+                        "type": "Medium Armor"
+                    }
+                ],
+                "weaponProficiencies": [
+                    {
+                        "type": "Simple Weapons"
+                    },
+                    {
+                        "type": "Martial Weapons"
+                    }
+                ],
+                "otherProficiencies": [],
+                "savingThrows": []
+            },
+            "multi": {
+                "armorProficiencies": [],
+                "weaponProficiencies": [],
+                "otherProficiencies": [],
+                "savingThrows": []
+            }
+        },
+        "Bard": {
+            "base": {
+                "armorProficiencies": [
+                    {
+                        "type": "Light Armor"
+                    }
+                ],
+                "weaponProficiencies": [
+                    {
+                        "type": "Simple Weapons"
+                    }
+                ],
+                "otherProficiencies": [],
+                "savingThrows": []
+            },
+            "multi": {
+                "armorProficiencies": [],
+                "weaponProficiencies": [],
+                "otherProficiencies": [],
+                "savingThrows": []
+            }
+        },
+        "Cleric": {
+            "base": {
+                "armorProficiencies": [
+                    {
+                        "type": "Light Armor"
+                    },
+                    {
+                        "type": "Medium Armor"
+                    }
+                ],
+                "weaponProficiencies": [
+                    {
+                        "type": "Simple Weapons"
+                    }
+                ],
+                "otherProficiencies": [],
+                "savingThrows": []
+            },
+            "multi": {
+                "armorProficiencies": [],
+                "weaponProficiencies": [],
+                "otherProficiencies": [],
+                "savingThrows": []
+            }
+        },
+        "Druid": {
+            "base": {
+                "armorProficiencies": [
+                    {
+                        "type": "Light Armor"
+                    },
+                    {
+                        "type": "Medium Armor"
+                    }
+                ],
+                "weaponProficiencies": [
+                    {
+                        "type": "Simple Weapons"
+                    }
+                ],
+                "otherProficiencies": [],
+                "savingThrows": []
+            },
+            "multi": {
+                "armorProficiencies": [],
+                "weaponProficiencies": [],
+                "otherProficiencies": [],
+                "savingThrows": []
+            }
+        },
+        "Fighter": {
+            "base": {
+                "armorProficiencies": [
+                    {
+                        "type": "Light Armor"
+                    },
+                    {
+                        "type": "Medium Armor"
+                    },
+                    {
+                        "type": "Heavy Armor"
+                    }
+                ],
+                "weaponProficiencies": [
+                    {
+                        "type": "Simple Weapons"
+                    },
+                    {
+                        "type": "Martial Weapons"
+                    }
+                ],
+                "otherProficiencies": [],
+                "savingThrows": []
+            },
+            "multi": {
+                "armorProficiencies": [],
+                "weaponProficiencies": [],
+                "otherProficiencies": [],
+                "savingThrows": []
+            }
+        },
+        "Monk": {
+            "base": {
+                "armorProficiencies": [],
+                "weaponProficiencies": [
+                    {
+                        "type": "Simple Weapons"
+                    }
+                ],
+                "otherProficiencies": [],
+                "savingThrows": []
+            },
+            "multi": {
+                "armorProficiencies": [],
+                "weaponProficiencies": [],
+                "otherProficiencies": [],
+                "savingThrows": []
+            }
+        },
+        "Paladin": {
+            "base": {
+                "armorProficiencies": [
+                    {
+                        "type": "Light Armor"
+                    },
+                    {
+                        "type": "Medium Armor"
+                    },
+                    {
+                        "type": "Heavy Armor"
+                    }
+                ],
+                "weaponProficiencies": [
+                    {
+                        "type": "Simple Weapons"
+                    },
+                    {
+                        "type": "Martial Weapons"
+                    }
+                ],
+                "otherProficiencies": [],
+                "savingThrows": []
+            },
+            "multi": {
+                "armorProficiencies": [],
+                "weaponProficiencies": [],
+                "otherProficiencies": [],
+                "savingThrows": []
+            }
+        },
+        "Rogue": {
+            "base": {
+                "armorProficiencies": [
+                    {
+                        "type": "Light Armor"
+                    }
+                ],
+                "weaponProficiencies": [
+                    {
+                        "type": "Simple Weapons"
+                    }
+                ],
+                "otherProficiencies": [],
+                "savingThrows": []
+            },
+            "multi": {
+                "armorProficiencies": [],
+                "weaponProficiencies": [],
+                "otherProficiencies": [],
+                "savingThrows": []
+            }
+        },
+        "Sorceror": {
+            "base": {
+                "armorProficiencies": [],
+                "weaponProficiencies": [],
+                "otherProficiencies": [],
+                "savingThrows": []
+            },
+            "multi": {
+                "armorProficiencies": [],
+                "weaponProficiencies": [],
+                "otherProficiencies": [],
+                "savingThrows": []
+            }
+        },
+        "Warlock": {
+            "base": {
+                "armorProficiencies": [
+                    {
+                        "type": "Light Armor"
+                    }
+                ],
+                "weaponProficiencies": [
+                    {
+                        "type": "Simple Weapons"
+                    }
+                ],
+                "otherProficiencies": [],
+                "savingThrows": []
+            },
+            "multi": {
+                "armorProficiencies": [],
+                "weaponProficiencies": [],
+                "otherProficiencies": [],
+                "savingThrows": []
+            }
+        },
+        "Wizard": {
+            "base": {
+                "armorProficiencies": [],
+                "weaponProficiencies": [],
+                "otherProficiencies": [],
+                "savingThrows": []
+            },
+            "multi": {
+                "armorProficiencies": [],
+                "weaponProficiencies": [],
+                "otherProficiencies": [],
+                "savingThrows": []
+            }
+        }
+    }
+}
