@@ -1,5 +1,5 @@
 from enum import Enum
-
+from uuid import UUID, uuid1
 from pydantic import BaseModel
 
 
@@ -99,6 +99,7 @@ class SavingThrows(BaseModel):
 
 class Character(BaseModel):
     name: str
+    uid: UUID = uuid1()
     race: Race | None = None
     background: Background | None = None
     base_class: CharacterClass | None = None
